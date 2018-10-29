@@ -1,0 +1,20 @@
+{
+    "name": "blockchain-js",
+    "version": "1.0.0",
+    "description": "Blockchain toy example.",
+    "main": "main.js",
+    "dependencies": {
+        "elliptic": "^6.4.1",
+        "crypto-js": "^3.1.9-1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "blockchain",
+        "sha256"
+    ],
+    "author": "Kevin Formosa",
+    "license": "ISC"
+}
